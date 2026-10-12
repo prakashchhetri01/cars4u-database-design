@@ -2,7 +2,6 @@
 
 A relational database design for a multi-location car rental business, developed by **Prakash Bahadur G C** for **CIS2360: Relational Databases and Web Integration**, University of Huddersfield. Original coursework submitted on **31 October 2025**.
 
-This GitHub edition is a corrected, runnable **SQLite adaptation** of the schema in the original report. Fictional sample data and demonstration queries were added during portfolio preparation; they are not original assessment outputs.
 
 ## Model
 
